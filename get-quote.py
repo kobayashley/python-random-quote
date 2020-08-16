@@ -15,6 +15,7 @@ def primary():
   last = 13
   rnd = random.randint(0,last)
   print(quotes[rnd])
+  print(quotes[rnd+1])
 
 if __name__== "__main__": # don't change this
   primary() # can change what the main function is named
