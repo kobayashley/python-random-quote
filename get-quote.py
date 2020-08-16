@@ -7,5 +7,5 @@ def primary():
 
   #print(quotes)
 
-if __name__== "__main__":
-  primary()
+if __name__== "__main__": // don't change this
+  primary() // can change what the main function is named
